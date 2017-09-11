@@ -66,8 +66,8 @@
     </developers>
 
     <issueManagement>
-        <system>GitHub</system>
-        <url>https://github.com/jenkinsci/gitflow-plugin/issues</url>
+        <system>JIRA</system>
+        <url>https://issues.jenkins-ci.org/issues/?jql=project%20%3D%20JENKINS%20AND%20component%20%3D%20gitflow-plugin</url>
     </issueManagement>
 
     <scm>
