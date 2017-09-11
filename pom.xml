@@ -15,6 +15,7 @@
 
     <name>Gitflow Plugin</name>
     <description>Perform Gitflow actions from Jenkins</description>
+    <url>https://wiki.jenkins.io/display/JENKINS/Gitflow+Plugin</url>
     <inceptionYear>2014</inceptionYear>
     <organization>
         <name>Silpion IT-Solutions GmbH</name>
