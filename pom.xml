@@ -82,7 +82,7 @@
     </ciManagement>
 
     <properties>
-        <jenkins.version>2.7</jenkins.version>
+        <jenkins.version>2.7.4</jenkins.version>
         <maven.compiler.source>1.${java.level}</maven.compiler.source>
         <maven.compiler.target>1.${java.level}</maven.compiler.target>
         <jenkinsHome>${project.basedir}/work</jenkinsHome>
