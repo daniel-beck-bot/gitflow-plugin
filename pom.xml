@@ -44,17 +44,20 @@
                 <picUrl>https://avatars0.githubusercontent.com/u/6331380</picUrl>
             </properties>
         </developer>
-        <developer>
-            <id>luedemann</id>
+    </developers>
+    <contributors>
+        <contributor>
             <name>Maria Luedemann</name>
             <email>luedemann@silpion.de</email>
             <roles>
                 <role>developer</role>
             </roles>
             <timezone>+1</timezone>
-        </developer>
-        <developer>
-            <id>osius</id>
+            <properties>
+                <id>luedemann</id>
+            </properties>
+        </contributor>
+        <contributor>
             <name>Hannes Osius</name>
             <email>osius@silpion.de</email>
             <roles>
@@ -62,8 +65,11 @@
                 <role>developer</role>
             </roles>
             <timezone>+1</timezone>
-        </developer>
-    </developers>
+            <properties>
+                <id>osius</id>
+            </properties>
+        </contributor>
+    </contributors>
 
     <issueManagement>
         <system>JIRA</system>
