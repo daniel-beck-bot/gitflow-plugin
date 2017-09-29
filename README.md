@@ -39,3 +39,6 @@ _settings.xml_.
 5. Run the Maven command
 
        mvn clean source:jar javadoc:jar deploy -DupdateReleaseInfo=true
+
+Steps 1 - 3 can be executed using the job _gitflow-plugin-gitflow_ in the development Jenkins on this project. Steps 4
+and 5 can be executed using the job _gitflow-plugin-deploy_.
